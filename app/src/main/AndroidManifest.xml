@@ -10,12 +10,17 @@
         android:label="Login de usuario"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
+        android:theme="@style/Theme.DAM"
         tools:targetApi="31">
         <activity
+            android:name=".HomeActivity"
+            android:exported="false"
+            android:label="@string/title_activity_home"
+            android:theme="@style/Theme.DAM.NoActionBar" />
+        <activity
             android:name=".RegistrarActivity"
-            android:label="Nuevo usuario"
-            android:exported="false" />
+            android:exported="false"
+            android:label="Nuevo usuario" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

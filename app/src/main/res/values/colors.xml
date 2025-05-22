@@ -1,5 +1,69 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="rosewater">#f5e0dc</color>
+    <color name="flamingo">#f2cdcd</color>
+    <color name="pink">#f5c2e7</color>
+    <color name="mauve">#cba6f7</color>
+    <color name="red">#f38ba8</color>
+    <color name="maroon">#eba0ac</color>
+    <color name="peach">#fab387</color>
+    <color name="yellow">#f9e2af</color>
+    <color name="green">#a6e3a1</color>
+    <color name="teal">#94e2d5</color>
+    <color name="sky">#89dceb</color>
+    <color name="sapphire">#74c7ec</color>
+    <color name="blue">#89b4fa</color>
+    <color name="lavender">#b4befe</color>
+    <color name="text">#cdd6f4</color>
+    <color name="subtext1">#bac2de</color>
+    <color name="subtext0">#a6adc8</color>
+    <color name="overlay2">#9399b2</color>
+    <color name="overlay1">#7f849c</color>
+    <color name="overlay0">#6c7086</color>
+    <color name="surface2">#585b70</color>
+    <color name="surface1">#45475a</color>
+    <color name="surface0">#313244</color>
+    <color name="base">#1e1e2e</color>
+    <color name="mantle">#181825</color>
+    <color name="crust">#11111b</color>
+    <!-- Primary colors -->
+    <color name="primary">#f5c2e7</color> <!-- Pink -->
+    <color name="onPrimary">#1e1e2e</color> <!-- Base -->
+    <color name="primaryContainer">#cba6f7</color> <!-- Mauve -->
+    <color name="onPrimaryContainer">#1e1e2e</color> <!-- Base -->
+
+    <!-- Secondary colors -->
+    <color name="secondary">#f2cdcd</color> <!-- Flamingo -->
+    <color name="onSecondary">#1e1e2e</color> <!-- Base -->
+    <color name="secondaryContainer">#eba0ac</color> <!-- Maroon -->
+    <color name="onSecondaryContainer">#1e1e2e</color> <!-- Base -->
+
+    <!-- Tertiary colors -->
+    <color name="tertiary">#94e2d5</color> <!-- Teal -->
+    <color name="onTertiary">#1e1e2e</color> <!-- Base -->
+    <color name="tertiaryContainer">#89dceb</color> <!-- Sky -->
+    <color name="onTertiaryContainer">#1e1e2e</color> <!-- Base -->
+
+    <!-- Error colors -->
+    <color name="error">#f38ba8</color> <!-- Red -->
+    <color name="onError">#1e1e2e</color> <!-- Base -->
+    <color name="errorContainer">#eba0ac</color> <!-- Maroon -->
+    <color name="onErrorContainer">#1e1e2e</color> <!-- Base -->
+
+    <!-- Background and surface colors -->
+    <color name="background">#cba6f7</color> <!-- Base -->
+    <color name="onBackground">#94e2d5</color> <!-- Text -->
+    <color name="surface">#313244</color> <!-- Surface0 -->
+    <!-- actionbar-->
+    <color name="onSurface">#74c7ec</color> <!-- Text -->
+    <color name="surfaceVariant">#45475a</color> <!-- Surface1 -->
+    <color name="onSurfaceVariant">#bac2de</color> <!-- Subtext1 -->
+
+    <!-- Outline and inverse colors -->
+    <color name="outline">#89dceb</color> <!-- Overlay0 -->
+    <color name="inverseOnSurface">#1e1e2e</color> <!-- Base -->
+    <color name="inverseSurface">#cdd6f4</color> <!-- Text -->
+    <color name="inversePrimary">#f5c2e7</color> <!-- Pink -->
+
+    <!-- Surface tint -->
+    <color name="surfaceTint">#f5c2e7</color> <!-- Pink -->
 </resources>
